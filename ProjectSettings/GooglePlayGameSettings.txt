@@ -1,0 +1,9 @@
+lastUpgrade=00939
+proj.pluginVersion=0.9.39a
+proj.AppId=225870042636
+and.BundleId=com.TumbleNet.AntiCookieClicker
+proj.classDir=Assets%2f_Scripts
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3cstring+name%3d%22app_id%22%3e225870042636%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22package_name%22%3ecom.TumbleNet.AntiCookieClicker%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_get_the_game%22%3eCgkIjKydt8kGEAIQBg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_you_have_to_start_somewhere%22%3eCgkIjKydt8kGEAIQBw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_whos_buying_cookies_now%22%3eCgkIjKydt8kGEAIQCA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_money_money_money%22%3eCgkIjKydt8kGEAIQCQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_there_are_no_facts_only_interpretations%22%3eCgkIjKydt8kGEAIQCg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_sorry_were_out_of_stock%22%3eCgkIjKydt8kGEAIQCw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_you_cant_afford_that%22%3eCgkIjKydt8kGEAIQDA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22leaderboard_number_of_cookies_sold%22%3eCgkIjKydt8kGEAIQAw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22leaderboard_cookie_count%22%3eCgkIjKydt8kGEAIQBA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22leaderboard_coin_count%22%3eCgkIjKydt8kGEAIQBQ%3c%2fstring%3e%0d%0a%3c%2fresources%3e%0d%0a
+and.ClientId=
+android.SetupDone=true
